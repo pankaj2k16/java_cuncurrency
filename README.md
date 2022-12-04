@@ -1,5 +1,5 @@
 # java_cuncurrency
-Pankaj Kumar
+#Pankaj_Kumar
 We have create one Main Class 
 1. Main Class (Main.java)
 2. MyThread Class(MyTread.java)
